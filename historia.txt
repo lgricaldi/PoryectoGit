@@ -5,3 +5,6 @@ Esta actividad es para poner en practica lo aprendido en Git.
 Aprender a usar los comandos básicos 
 
 realizaremos un Git checkout
+
+Se creo la rama editore para poder ir incluyendo las historias a nuestro proyecto 
+
